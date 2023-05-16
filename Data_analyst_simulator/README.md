@@ -1,4 +1,4 @@
-![Social media stock image](./other_files/social_media_stock_image_rounded.jpg)
+![Social media stock image](./other_files/social_media_stock_image-modified.png)
 
 В данном курсе я работал с данными приложения, в котором есть сервис "лента новостей", а также сервис "мессенджер". Мне необходимо было выстрость базовые аналитические процессы данного продукта.
 
